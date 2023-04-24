@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "https://project-threejs-ai-sf1k.onrender.com",
+      "source": "index.html",
       "headers": [
         { "key": "Access-Control-Allow-Credentials", "value": "true" },
         { "key": "Access-Control-Allow-Origin", "value": "*" },
